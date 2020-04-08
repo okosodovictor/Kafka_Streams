@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEIa1/N1x1Um9RgCp/6kP5QloUAqi1+m1K1V7bSoYcR2NwgBaDu2K8nq5YN7+2+iUh4JD2/ffKbzFTUQbUNCDA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\KafkaTask\\StreamProducer\\StreamProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VictorOkosodo\\.nuget\\packages\\confluent.kafka\\1.4.0\\confluent.kafka.1.4.0.nupkg.sha512",
+    "C:\\Users\\VictorOkosodo\\.nuget\\packages\\librdkafka.redist\\1.4.0\\librdkafka.redist.1.4.0.nupkg.sha512",
+    "C:\\Users\\VictorOkosodo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\VictorOkosodo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\VictorOkosodo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\VictorOkosodo\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
